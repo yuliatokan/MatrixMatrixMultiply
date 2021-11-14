@@ -1,0 +1,4 @@
+﻿  Lab2MPI.cpp
+C:\Users\Yulia\source\repos\Lab2MPI\Lab2MPI\Lab2MPI.cpp(129,35): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Yulia\source\repos\Lab2MPI\Lab2MPI\Lab2MPI.cpp(144,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab2MPI.vcxproj -> C:\Users\Yulia\source\repos\Lab2MPI\Debug\Lab2MPI.exe
